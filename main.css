@@ -35,3 +35,11 @@ h1 {
   font-size: 25px;
   border-radius: 6px;
 }
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
